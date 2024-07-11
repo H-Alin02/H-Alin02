@@ -1,4 +1,4 @@
-# Hello there! 👋, I'm Habasescu Alin Marian
+# Hi!, I'm Habasescu Alin Marian 👋
 
 I am a passionate computer science student with a keen interest in software development 
 
