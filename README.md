@@ -80,3 +80,8 @@ I am a computer science student with a strong interest in software development. 
 
 - **Advance in Machine Learning and Data Analysis**: My goal is to dive deeper into machine learning algorithms, data preprocessing, and model evaluation. I am particularly interested in supervised and unsupervised learning, neural networks, and deep learning frameworks like TensorFlow and PyTorch. Moreover, I aspire to gain expertise in data visualization tools and techniques, as well as big data technologies.
 
+# 📈 Stats 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=H-Alin02&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
+/>
+![](https://komarev.com/ghpvc/?username=H-Alin02)
