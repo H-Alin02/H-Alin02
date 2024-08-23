@@ -73,12 +73,15 @@ I am a computer science student with a strong interest in software development. 
 -->
 
 ## Current Projects:
-- [CodeBreakers](https://github.com/H-Alin02/CodeBreakers) - Project developed during the Software Engineering and Security course, utilizing Java programming language, design patterns, testing, and agile methodology in the development process. 
+- [CodeBreakers](https://github.com/H-Alin02/CodeBreakers) - Project developed during the Software Engineering and Security course, utilizing Java programming language, design patterns, testing, and agile methodology in the development process.
+- [DSA_in_Cpp](https://github.com/H-Alin02/DSA-in-cpp) - This collection contains implementations of various data structures and algorithms in C++, which I developed during my DSA course at the university.
+This repository aims to provide implementations of fundamental data structures and algorithms.
 
 ## Future Goals:
 - **Deepen my knowledge in web programming**: I aim to enhance my skills in front-end and back-end development, mastering technologies such as HTLM, CSS, JavaScript, Node.js and other more.
 
 - **Advance in Machine Learning and Data Analysis**: My goal is to dive deeper into machine learning algorithms, data preprocessing, and model evaluation. I am particularly interested in supervised and unsupervised learning, neural networks, and deep learning frameworks like TensorFlow and PyTorch. Moreover, I aspire to gain expertise in data visualization tools and techniques, as well as big data technologies.
+- **Expand my understanding of data structures and algorithms**: I want to further develop my knowledge in fundamental data structures and algorithms. This includes mastering commonly used structures such as arrays, linked lists, stacks, queues, trees, and graphs, as well as learning advanced algorithms for sorting, searching, and optimization. By improving my problem-solving skills in these areas, I aim to enhance my ability to write efficient and effective code.
 
 # 📈 Stats 
 <img
