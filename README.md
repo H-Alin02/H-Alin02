@@ -84,7 +84,5 @@ This repository aims to provide implementations of fundamental data structures a
 - **Expand my understanding of data structures and algorithms**: I want to further develop my knowledge in fundamental data structures and algorithms. This includes mastering commonly used structures such as arrays, linked lists, stacks, queues, trees, and graphs, as well as learning advanced algorithms for sorting, searching, and optimization. By improving my problem-solving skills in these areas, I aim to enhance my ability to write efficient and effective code.
 
 # 📈 Stats 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=H-Alin02&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
-/>
-![](https://komarev.com/ghpvc/?username=H-Alin02)
+[![Alin's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Alin02)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Alin02)](https://github.com/anuraghazra/github-readme-stats)
